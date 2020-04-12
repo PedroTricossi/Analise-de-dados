@@ -1,2 +1,2 @@
-# Analise-de-dados
-Projetos na área de data science.
+# Machine learning
+Repositório para projetos pessoais em machine leaning. 
